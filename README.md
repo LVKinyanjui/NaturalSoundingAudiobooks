@@ -2,8 +2,9 @@
 An open source text to speech service using a variety of techniques (whatever works)
 
 ## Prerequisites
-If you intent to run this locally first clone the repo with
-`https://github.com/LVKinyanjui/NaturalSoundingAudiobooks.git`
+If you intend to run this locally first clone the repo with
+`git clone <repo-url>`
+Then change into the local repo directory.
 
 ## How to Run
 1.Ensure you have python installed (This was tested with python 3.10). If not, download it for your operating system [here](https://www.python.org/downloads/).
